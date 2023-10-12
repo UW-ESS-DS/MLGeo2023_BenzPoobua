@@ -8,6 +8,7 @@
 ## Class
 
 - ESS 469 AUT23: https://github.com/UW-ESS-DS/MLGeo-Autumn22
+- Assigments: https://github.com/UW-ESS-DS/MLGeo-Autumn22/tree/main/homework
 
 ## Area of Interests
 
