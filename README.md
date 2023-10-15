@@ -6,6 +6,8 @@
 
 - ESS (geoscience) major 
 
+- Focusing on geodesy
+
 ## Class
 
 - ESS 469 AUT23: https://github.com/UW-ESS-DS/MLGeo-2023
