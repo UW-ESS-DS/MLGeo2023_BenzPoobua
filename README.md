@@ -7,8 +7,13 @@
 
 ## Class
 
-- ESS 469 AUT23: https://github.com/UW-ESS-DS/MLGeo-Autumn22
-- Assigments: https://github.com/UW-ESS-DS/MLGeo-Autumn22/tree/main/homework
+- ESS 469 AUT23: https://github.com/UW-ESS-DS/MLGeo-2023
+
+
+## How to clone a repository
+
+git clone git@github.com:UW-ESS-DS/MLgeo2023_BenzPoobua.git
+
 
 ## Area of Interests
 
