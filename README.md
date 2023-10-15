@@ -12,7 +12,7 @@
 
 ## How to clone a repository
 
-- `git clone [https://github.com/UW-ESS-DS/MLGeo2023_BenzPoobua.git](https://github.com/UW-ESS-DS/MLGeo2023_BenzPoobua.git)`
+- `git clone https://github.com/UW-ESS-DS/MLGeo2023_BenzPoobua.git`
 
 
 ## About the Licence
