@@ -4,6 +4,7 @@
 
 - [@Benz-Poobua](https://www.github.com/Benz-Poobua)
 
+- ESS (geoscience) major 
 
 ## Class
 
